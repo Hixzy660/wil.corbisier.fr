@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0",
+    "three": "^0.162.0",
+    "pyscript":"^1.0.6"
+  }
+}
